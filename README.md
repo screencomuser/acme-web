@@ -2,4 +2,4 @@
 Dead simple ACME web server
 
 # required
-Python 2.7
+Python 2 | 3
